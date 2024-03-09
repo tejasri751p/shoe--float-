@@ -1,0 +1,99 @@
+
+.product-heading{
+    font-family: sans-serif;
+     background-color: rgba(255, 228, 196, 0.788);
+     text-align: center;
+     font: size 60px;
+     margin: 10px;
+}
+
+.picture{
+    margin: left 4px; 
+}
+.price{
+    margin: 1px 0 1px 4px ;
+}
+.shipping{
+font-style:normal;
+margin: 0 0 3px 4px;
+text-transform: uppercase;
+font-weight: bold;
+}
+.productdep{
+    font-style:bold;
+    margin: 3px 0 6px 4px;
+}
+.info {
+    margin: left 4px;
+}
+.color{
+    background-color: black;
+    height: 25px;
+    width: 25px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.colors{
+    margin-top: 8px;
+}
+.colorblack{
+    background-color: black;
+}
+
+.colorgreen{
+    background-color: green;
+}
+
+.colorblue{
+    background-color: blue;
+}
+
+.colorwhite{
+    background-color:white;
+}
+
+.colorpink{
+    background-color: pink;
+}
+.coloryellow{
+    background-color: yellow;
+}
+.details{
+    margin:3px 0 3px 0 ;
+}
+.list{
+    margin:10px 0 0 20px;
+}
+
+.list li{
+    margin-bottom: 5px;
+}
+.cart{
+    margin-top: 5px;
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(231, 234, 235);
+    color: black;
+    font-weight:bold;
+}
+
+
+/*FLOAT*/
+
+.image {
+    float: left;
+}
+
+.productdescripation {
+    width: 450px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.product {
+    width: 450px;
+    float: right;
+    margin-top: 20px;
+    padding: 10px;
+}
